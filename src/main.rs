@@ -63,6 +63,8 @@ fn main(){
             _ => {
                 println!("Invalid choice, please select 1, 2, or 3.");
             }
+
         }
+        println!("\n");
    }
 }
